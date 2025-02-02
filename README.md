@@ -2,7 +2,7 @@
 <h3 align="left">A Front End Developer | React.JS From Egypt</h3>
 
 <div width="100%" align="center">
-    <img width="400" src="https://i.postimg.cc/NM7FJXyx/154e4bd970fec6bf661662f24aa82493-sticker.png" alt="Developer">
+    <img width="300" src="https://i.postimg.cc/NM7FJXyx/154e4bd970fec6bf661662f24aa82493-sticker.png" alt="Developer">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hamedahmed0&label=Profile%20views&color=0e75b6&style=flat" alt="m0hamedahmed0" /> </p>
